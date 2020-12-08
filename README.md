@@ -1,1 +1,1 @@
-# AppDaddy-Core-Public
+# AppDaddy-Core-Public Wiki
